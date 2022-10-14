@@ -1,4 +1,4 @@
-# youtube-search-api
+# youtubesearch-api
 Youtube search api-written in python- hosted on heroku
 
 ## Run
